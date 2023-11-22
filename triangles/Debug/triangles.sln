@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "triangles", "triangles.exe", "{947956A4-E440-476E-8749-FC082A421925}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\Documents\Visual Studio 2010\Projects\triangles\Debug\triangles.exe
+		RemoteMachine = DESKTOP-OR9FVRH
+		StartingDirectory = F:\Documents\Visual Studio 2010\Projects\triangles\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{947956A4-E440-476E-8749-FC082A421925}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
